@@ -1,0 +1,19 @@
+Don't leave security until the end.
+
+Authentication
+Authorization
+RBAC
+Input validation
+Output validation
+Rate limiting
+Secrets management
+Encryption
+CORS
+CSRF where applicable
+SQL injection protection
+XSS protection
+Dependency scanning
+Container scanning
+Audit logs
+Session management
+Backup security
