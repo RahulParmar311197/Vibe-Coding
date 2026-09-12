@@ -1,0 +1,5 @@
+Very useful for vibe coding:
+FEATURE_NEW_DASHBOARD=false
+FEATURE_AI_ANALYSIS=false
+FEATURE_AUTOMATION=true
+This lets you deploy code without immediately exposing unfinished functionality.
