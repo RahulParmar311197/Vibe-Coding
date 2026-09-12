@@ -1,0 +1,11 @@
+For a new project, copy this as:
+VIBE_CODING_MASTER.md
+Then create the .ai/ directory and start with:
+.ai/
+├── PROJECT_CONTEXT.md
+├── CURRENT_STATE.md
+├── MASTER_TASKS.md
+├── RULES.md
+└── DEFINITION_OF_DONE.md
+Then your first AI instruction should effectively be:
+"Read VIBE_CODING_MASTER.md and .ai/. Inspect the entire repository. Do not code yet. Determine the current state, identify gaps, and produce the prioritized implementation plan."
