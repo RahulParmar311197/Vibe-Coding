@@ -1,0 +1,17 @@
+Every production change should have:
+Migration
+   +
+Forward plan
+   +
+Rollback plan
+For example:
+Release v1
+ ↓
+Database migration
+ ↓
+Application deployment
+ ↓
+Health check
+ ↓
+Success → continue
+Failure → rollback
