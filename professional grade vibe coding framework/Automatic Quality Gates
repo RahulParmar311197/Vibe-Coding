@@ -1,0 +1,28 @@
+Every change should pass:
+
+Formatting
+   ↓
+Lint
+   ↓
+Type checking
+   ↓
+Unit tests
+   ↓
+Integration tests
+   ↓
+E2E tests
+   ↓
+Security scan
+   ↓
+Build
+   ↓
+Deployment test
+
+If one fails:
+FAIL
+ ↓
+diagnose
+ ↓
+fix
+ ↓
+rerun
