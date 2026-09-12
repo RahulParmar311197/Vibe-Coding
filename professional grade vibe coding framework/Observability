@@ -1,0 +1,5 @@
+             OBSERVABILITY
+                  │
+       ┌──────────┼──────────┐
+       ▼          ▼          ▼
+     LOGS       METRICS     TRACES
