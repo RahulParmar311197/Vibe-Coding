@@ -1,0 +1,21 @@
+Repository
+   ↓
+Dependency graph
+   ↓
+Module graph
+   ↓
+API graph
+   ↓
+Database graph
+   ↓
+Data flow
+   ↓
+Authentication flow
+   ↓
+External integrations
+
+Maintain:
+CODEBASE_MAP.md
+DEPENDENCY_MAP.md
+DATA_FLOW.md
+API_MAP.md
