@@ -1,0 +1,19 @@
+.ai/
+├── context/
+│   ├── project.md
+│   ├── architecture.md
+│   ├── database.md
+│   ├── integrations.md
+│   └── conventions.md
+│
+├── state/
+│   ├── completed.md
+│   ├── pending.md
+│   ├── blocked.md
+│   ├── known-bugs.md
+│   └── technical-debt.md
+│
+└── decisions/
+    ├── ADR-001.md
+    ├── ADR-002.md
+    └── ...
