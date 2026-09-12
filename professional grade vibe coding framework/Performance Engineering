@@ -1,0 +1,11 @@
+Every serious application should have performance targets.
+API latency
+DB query latency
+Page load time
+Throughput
+Concurrent users
+Memory usage
+CPU usage
+Queue latency
+Error rate
+Availability
