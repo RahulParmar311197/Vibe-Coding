@@ -1,0 +1,13 @@
+Production systems should be able to answer:
+Is the application alive?
+Is the database healthy?
+Is Redis healthy?
+Are queues working?
+Are external APIs working?
+Are background workers running?
+Are error rates normal?
+Typical endpoints:
+/health
+/ready
+/live
+/metrics
