@@ -1,0 +1,44 @@
+                         PROJECT
+                            │
+              ┌─────────────┴─────────────┐
+              │                           │
+         PRODUCT LAYER               ENGINEERING
+              │                           │
+       Requirements                  Architecture
+       UX/UI                         Code
+       Features                      Database
+       Business logic                APIs
+                                    Infrastructure
+              │                           │
+              └─────────────┬─────────────┘
+                            │
+                       AI ENGINEERING
+                            │
+                    Agents / Models
+                    Prompts / RAG
+                    Evaluation
+                            │
+                            ▼
+                      QUALITY SYSTEM
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+           Testing       Security      Performance
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                       OPERATIONS
+                            │
+                  CI/CD / Monitoring
+                  Logging / Alerts
+                  Backup / Recovery
+                            │
+                            ▼
+                        RELEASE
+                            │
+                            ▼
+                       PRODUCTION
+                            │
+                            ▼
+                      CONTINUOUS
+                      IMPROVEMENT
