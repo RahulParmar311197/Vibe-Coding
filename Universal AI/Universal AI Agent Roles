@@ -1,0 +1,26 @@
+                    PROJECT MANAGER
+                          │
+                          ▼
+                   SOLUTION ARCHITECT
+                          │
+             ┌────────────┼────────────┐
+             ▼            ▼            ▼
+         BACKEND       FRONTEND       DATA
+         AGENT          AGENT         AGENT
+             │            │            │
+             └────────────┼────────────┘
+                          ▼
+                       AI/ML
+                        AGENT
+                          │
+                          ▼
+                    TEST ENGINEER
+                          │
+                          ▼
+                   SECURITY ENGINEER
+                          │
+                          ▼
+                     DEVOPS/SRE
+                          │
+                          ▼
+                 RELEASE ENGINEER
