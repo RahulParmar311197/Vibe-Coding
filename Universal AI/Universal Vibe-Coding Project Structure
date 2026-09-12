@@ -1,0 +1,130 @@
+PROJECT
+│
+├── 00-PROJECT-DEFINITION
+│   ├── README.md
+│   ├── PRODUCT_REQUIREMENTS.md
+│   ├── USER_STORIES.md
+│   ├── ACCEPTANCE_CRITERIA.md
+│   ├── SCOPE.md
+│   └── DEFINITION_OF_DONE.md
+│
+├── 01-PLANNING
+│   ├── MASTER_PLAN.md
+│   ├── ROADMAP.md
+│   ├── TASKS.md
+│   ├── MILESTONES.md
+│   └── CHANGELOG.md
+│
+├── 02-ARCHITECTURE
+│   ├── SYSTEM_ARCHITECTURE.md
+│   ├── COMPONENTS.md
+│   ├── DATA_FLOW.md
+│   ├── SECURITY_ARCHITECTURE.md
+│   ├── API_ARCHITECTURE.md
+│   └── ADR/
+│
+├── 03-DESIGN
+│   ├── UX.md
+│   ├── UI.md
+│   ├── DESIGN_SYSTEM.md
+│   └── WIREFRAMES/
+│
+├── 04-DATABASE
+│   ├── SCHEMA.md
+│   ├── ERD.md
+│   ├── MIGRATIONS/
+│   └── SEEDS/
+│
+├── 05-API
+│   ├── API_SPEC.md
+│   ├── OPENAPI.yaml
+│   └── CONTRACTS/
+│
+├── 06-BACKEND
+│   ├── APPLICATION/
+│   ├── DOMAIN/
+│   ├── SERVICES/
+│   ├── REPOSITORIES/
+│   ├── API/
+│   ├── WORKERS/
+│   └── CONFIG/
+│
+├── 07-FRONTEND
+│   ├── APP/
+│   ├── COMPONENTS/
+│   ├── FEATURES/
+│   ├── HOOKS/
+│   ├── SERVICES/
+│   └── STATE/
+│
+├── 08-AI
+│   ├── MODELS/
+│   ├── PROMPTS/
+│   ├── AGENTS/
+│   ├── RAG/
+│   ├── EVALUATION/
+│   └── GUARDRAILS/
+│
+├── 09-INTEGRATIONS
+│   ├── AUTH/
+│   ├── PAYMENTS/
+│   ├── EMAIL/
+│   ├── STORAGE/
+│   ├── THIRD_PARTY_APIS/
+│   └── WEBHOOKS/
+│
+├── 10-TESTING
+│   ├── UNIT/
+│   ├── INTEGRATION/
+│   ├── E2E/
+│   ├── PERFORMANCE/
+│   ├── SECURITY/
+│   └── TEST_PLAN.md
+│
+├── 11-DATA
+│   ├── RAW/
+│   ├── PROCESSED/
+│   ├── DATA_PIPELINES/
+│   └── VALIDATION/
+│
+├── 12-SECURITY
+│   ├── THREAT_MODEL.md
+│   ├── SECURITY_CHECKLIST.md
+│   ├── RBAC.md
+│   └── SECRETS_POLICY.md
+│
+├── 13-OBSERVABILITY
+│   ├── LOGGING.md
+│   ├── METRICS.md
+│   ├── ALERTS.md
+│   └── DASHBOARDS/
+│
+├── 14-DEVOPS
+│   ├── Dockerfile
+│   ├── docker-compose.yml
+│   ├── CI_CD.md
+│   ├── DEPLOYMENT.md
+│   └── infrastructure/
+│
+├── 15-ENVIRONMENTS
+│   ├── development/
+│   ├── staging/
+│   └── production/
+│
+├── 16-DOCUMENTATION
+│   ├── USER_GUIDE.md
+│   ├── DEVELOPER_GUIDE.md
+│   ├── API_GUIDE.md
+│   ├── DEPLOYMENT_GUIDE.md
+│   └── TROUBLESHOOTING.md
+│
+├── 17-OPERATIONS
+│   ├── RUNBOOK.md
+│   ├── BACKUP.md
+│   ├── DISASTER_RECOVERY.md
+│   └── INCIDENT_RESPONSE.md
+│
+└── 18-RELEASE
+    ├── RELEASE_CHECKLIST.md
+    ├── RELEASE_NOTES.md
+    └── PRODUCTION_ACCEPTANCE.md
